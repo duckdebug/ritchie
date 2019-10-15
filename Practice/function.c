@@ -1,5 +1,5 @@
 #include<stdio.h>
-void fun1(); / Declaration
+void fun1(); // Declaration
 int main()
 {
   fun1();// funciton calling
